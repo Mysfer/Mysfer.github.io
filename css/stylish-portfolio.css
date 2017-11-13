@@ -279,3 +279,14 @@ footer {
     display: none;
     padding: 15px 20px;
 }
+
+.img-responsive {
+    max-width: 100%;
+    height: auto;
+    display:block;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
